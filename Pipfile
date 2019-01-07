@@ -10,6 +10,7 @@ pystan = "*"
 matplotlib = "*"
 seaborn = "*"
 arviz = "*"
+scipy = "*"
 
 [dev-packages]
 
