@@ -9,6 +9,7 @@ pandas = "*"
 pystan = "*"
 matplotlib = "*"
 seaborn = "*"
+arviz = "*"
 
 [dev-packages]
 
