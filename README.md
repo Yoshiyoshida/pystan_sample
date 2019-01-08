@@ -24,3 +24,5 @@
 # フォルダ概要
 ## pystan_Udemy
 - Udemyを参考にしたフォルダ
+## pystan_local_case
+- 人ってきたデータにpystanを適用
