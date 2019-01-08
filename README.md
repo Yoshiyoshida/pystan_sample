@@ -29,3 +29,6 @@
 - Udemyを参考にしたフォルダ
 ## pystan_local_case
 - 拾ってきたデータにpystanを適用
+## Bayesian
+- ベイズの定理の学習
+- ベイズ更新を実装
