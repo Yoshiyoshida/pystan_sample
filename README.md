@@ -25,4 +25,4 @@
 ## pystan_Udemy
 - Udemyを参考にしたフォルダ
 ## pystan_local_case
-- 人ってきたデータにpystanを適用
+- 拾ってきたデータにpystanを適用
