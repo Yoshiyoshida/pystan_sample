@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fe7c044b430ae99f4a2b0eb4fd12fcd083870ac03d8e4ca547e3864d0d936073"
+            "sha256": "8fa63453aeba796db3ab34157b7d7686286278a735e4e87b2c3ea5852f01a56c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -95,6 +95,13 @@
             ],
             "version": "==0.29.2"
         },
+        "japanize-matplotlib": {
+            "hashes": [
+                "sha256:d1931a0a2320997d1bd6ae1f44c3b008befea5a65d40088e721cf4be2bc7f11f"
+            ],
+            "index": "pypi",
+            "version": "==1.0.4"
+        },
         "kiwisolver": {
             "hashes": [
                 "sha256:0ee4ed8b3ae8f5f712b0aa9ebd2858b5b232f1b9a96b0943dceb34df2a223bc3",
@@ -146,6 +153,14 @@
             ],
             "index": "pypi",
             "version": "==3.0.2"
+        },
+        "missingno": {
+            "hashes": [
+                "sha256:3f192fd713619694b16bbc4c5021fdb4edfb39188e86e2adf03e67a876249479",
+                "sha256:56065805d38260e4c1f5a5cb65d5da272cdcd9b3cb6b8bb6900cda2cb74818b1"
+            ],
+            "index": "pypi",
+            "version": "==0.4.1"
         },
         "netcdf4": {
             "hashes": [
@@ -330,6 +345,13 @@
                 "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
             ],
             "version": "==1.12.0"
+        },
+        "tabulate": {
+            "hashes": [
+                "sha256:e4ca13f26d0a6be2a2915428dc21e732f1e44dad7f76d7030b2ef1ec251cf7f2"
+            ],
+            "index": "pypi",
+            "version": "==0.8.2"
         },
         "xarray": {
             "hashes": [

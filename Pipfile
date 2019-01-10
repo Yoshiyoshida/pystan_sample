@@ -11,6 +11,10 @@ matplotlib = "*"
 seaborn = "*"
 arviz = "*"
 scipy = "*"
+missingno = "*"
+japanize-matplotlib = "*"
+tabulate = "*"
+sklearn = "*"
 
 [dev-packages]
 
