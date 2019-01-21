@@ -26,7 +26,7 @@
 - 任意のデータへの適用
 - できればブログにまとめる
 # #フォルダ概要
-## pystan_Udemy
+## pystan_udemy
 - Udemyを参考にしたフォルダ
 ## pystan_local_case
 - 拾ってきたデータにpystanを適用
